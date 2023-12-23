@@ -156,3 +156,24 @@ C:\Users\Admin\Desktop\BilgeAdam\Proje\UcakBiletSatisOtomasyon-Veritabanı düze
 C:\Users\Admin\Desktop\BilgeAdam\Proje\UcakBiletSatisOtomasyon-Veritabanı düzenlenmesi\UcakBiletSatisOtomasyon-Veritabanı düzenlenmesi\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.csproj.CopyComplete
 C:\Users\Admin\Desktop\BilgeAdam\Proje\UcakBiletSatisOtomasyon-Veritabanı düzenlenmesi\UcakBiletSatisOtomasyon-Veritabanı düzenlenmesi\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.exe
 C:\Users\Admin\Desktop\BilgeAdam\Proje\UcakBiletSatisOtomasyon-Veritabanı düzenlenmesi\UcakBiletSatisOtomasyon-Veritabanı düzenlenmesi\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.pdb
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\bin\Debug\UcakBiletSatisOtomasyonu.exe.config
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\bin\Debug\UcakBiletSatisOtomasyonu.exe
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\bin\Debug\UcakBiletSatisOtomasyonu.pdb
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.Bilet.resources
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.Form1.resources
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.Form2.resources
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.Form3.resources
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.Koltuk.resources
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.MusteriForm.resources
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.Odeme.resources
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.Properties.Resources.resources
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.csproj.CopyComplete
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.exe
+C:\Users\devel\source\repos\UcakBiletSatis\UcakBiletSatisOtomasyonu\obj\Debug\UcakBiletSatisOtomasyonu.pdb

@@ -13,7 +13,7 @@ namespace UcakBiletSatisOtomasyonu
     {
         public Context()
         {
-            Database.Connection.ConnectionString = @"server=ADEM-LENOVO\SQLEXPRESS;database=UcakDb;uid=sa;pwd=123";
+            Database.Connection.ConnectionString = @"server=ADEMCOSKUN\SQLEXPRESS;database=UcakDb;Trusted_Connection=True";
             //Database.Connection.ConnectionString = @"server=(localdb)\MSSQLLocalDB;database=UcakDb;Trusted_Connection=True;";
             Database.SetInitializer<Context>(new DropCreateDatabaseIfModelChanges<Context>());
         }
